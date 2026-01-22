@@ -1,0 +1,11 @@
+type,indicator,value,action
+CRITICAL,Australia - Extreme Risk,Risk: 1.50,Monitor supply chain exposure
+CRITICAL,Colombia - Extreme Risk,Risk: 2.00,Monitor supply chain exposure
+CRITICAL,Ecuador - Extreme Risk,Risk: 1.10,Monitor supply chain exposure
+CRITICAL,Iran - Extreme Risk,Risk: 2.50,Monitor supply chain exposure
+CRITICAL,Norway - Extreme Risk,Risk: 1.10,Monitor supply chain exposure
+CRITICAL,Oman - Extreme Risk,Risk: 3.00,Monitor supply chain exposure
+CRITICAL,Peru - Extreme Risk,Risk: 1.20,Monitor supply chain exposure
+CRITICAL,United Arab Emirates - Extreme Risk,Risk: 1.30,Monitor supply chain exposure
+CRITICAL,United States - Extreme Risk,Risk: 1.20,Monitor supply chain exposure
+CRITICAL,Venezuela - Extreme Risk,Risk: 1.30,Monitor supply chain exposure

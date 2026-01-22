@@ -1,0 +1,6 @@
+name,description,probability,geopolitical_risk_increase,conflicts_increase,btc_impact,oil_impact,gpu_impact,timeline,mineral_impact
+Taiwan Strait Crisis,Major escalation in Taiwan-China tensions,15-20%,2.0,1.5,+25% to +40%,+15% to +25%,+50% to +100% (supply shock),"0-2 weeks immediate, 4-8 weeks full impact",
+Middle East Conflict Expansion,Regional conflict spreads to major oil producers,10-15%,1.5,2.0,+15% to +30%,+30% to +60%,+5% to +15% (indirect),"Immediate oil spike, 2-4 weeks for cascading effects",
+Argentina Economic Collapse,Political instability + sovereign default,25-30%,0.5,0.3,+5% to +10% (regional capital flight),Neutral to -5%,Minimal,1-3 months,Lithium supply disruption: +10-20% battery costs
+Global De-escalation,Major diplomatic breakthroughs reduce tensions,20-25%,-1.0,-0.8,-10% to -20% (risk-off unwind),-5% to -15%,-10% to -20% (demand normalization),2-6 weeks gradual adjustment,
+China Rare Earth Export Restrictions,Strategic export controls on critical minerals,30-35%,1.2,0.5,+10% to +20%,+5% to +10%,+30% to +50% (severe supply constraints),4-12 weeks to materialize in consumer prices,Catastrophic for tech manufacturing
