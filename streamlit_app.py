@@ -20,18 +20,18 @@ st.set_page_config(
 st.markdown("""
 <style>
     .metric-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        padding: 20px;
+        background: linear-gradient(135deg, #0ea5a4 0%, #0369a1 100%);
+        padding: 18px;
         border-radius: 10px;
-        color: white;
+        color: #e6eef8;
     }
     .insight-box {
-        background: #fff3cd;
-        border-left: 4px solid #ffc107;
-        padding: 15px;
+        background: #0b1220;
+        border-left: 4px solid rgba(29,185,84,0.12);
+        padding: 12px;
         margin: 10px 0;
-        border-radius: 5px;
-        color: #000;
+        border-radius: 8px;
+        color: #e6eef8;
     }
     .stTabs [data-baseweb="tab-list"] {
         gap: 24px;
@@ -40,6 +40,16 @@ st.markdown("""
         height: 50px;
         padding-left: 20px;
         padding-right: 20px;
+    }
+    .stButton>button {
+        background-color: #0ea5a4;
+        color: #071126;
+        border: none;
+    }
+    .stDownloadButton>button {
+        background-color: #06b6d4;
+        color: #071126;
+        border: none;
     }
 </style>
 """, unsafe_allow_html=True)
